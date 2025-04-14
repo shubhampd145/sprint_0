@@ -198,7 +198,7 @@ vm.swappiness=100</pre>
   <tbody>
     <tr>
       <td>abc</td>
-      <td><a href="mailto:abc@mygurukulam.co">abc@mygurukulam.co</a></td>
+      <td><a href="shubham.prasad.snaatak@mygurukulam.co">abc@mygurukulam.co</a></td>
     </tr>
   </tbody>
 </table>
