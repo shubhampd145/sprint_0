@@ -195,22 +195,5 @@ vm.swappiness=100</pre>
       <td>Log suspicious packets</td>
       <td>Security hardening</td>
 
-<h4>Contacts</h4>
-<table border="1" cellpadding="5" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Email Address</th>
-      
-    
-  </thead>
-  <tbody>
-    <tr>
-      <td>Shubham Prasad</td>
-      <td><a href="mailto:shubham.prasad.snaatak@mygurukulam.co">shubham.prasad.snaatak@mygurukulam.co</a></td>
-      
-    
-  </tbody>
-</table>
 
 
