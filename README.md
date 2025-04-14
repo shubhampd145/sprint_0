@@ -28,8 +28,7 @@
 # Example:
 sudo sysctl net.ipv4.ip_forward</code></pre>
 
-<h4>View parameters from /etc/sysctl.conf:</h4>
-<pre><code>sudo sysctl -p</code></pre>
+
 
 <h3>2. Temporarily Modifying Parameters (applies until reboot)</h3>
 
@@ -40,6 +39,7 @@ sudo sysctl -w net.ipv4.tcp_syncookies=1</code></pre>
 
 <h4>Verify the change took effect:</h4>
 <pre><code>sudo sysctl &lt;parameter.name&gt;</code></pre>
+<pre><code>sudo sysctl &lt;;</code></pre>
 
 <h3>3. Permanently Modifying Parameters (persists across reboots)</h3>
 
