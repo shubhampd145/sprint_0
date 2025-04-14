@@ -3,6 +3,27 @@
   <h3>Ubuntu System Tuning for Performance and Security</h3>
 </div>
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Author</th>
+      <th>Created on</th>
+      <th>Version</th>
+      <th>Last updated by</th>
+      <th>Last edited on</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ABC</td>
+      <td>10-08-23</td>
+      <td>version 1</td>
+      <td>ABC</td>
+      <td>24-08-23</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2> Purpose</h2>
 <p>This Standard Operating Procedure (SOP) describes the proper procedures for viewing, applying, and persisting kernel parameter changes using <code>sysctl</code> on Ubuntu systems for performance optimization and security hardening.</p>
 
