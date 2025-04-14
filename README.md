@@ -186,3 +186,20 @@ vm.swappiness=100</pre>
       <td>log_martians = 1</td>
       <td>Log suspicious packets</td>
       <td>Security hardening</td>
+
+      <h3>Contact Information</h3>
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>abc</td>
+      <td><a href="mailto:abc@mygurukulam.co">abc@mygurukulam.co</a></td>
+    </tr>
+  </tbody>
+</table>
+
