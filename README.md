@@ -195,7 +195,7 @@ vm.swappiness=100</pre>
       <td>Log suspicious packets</td>
       <td>Security hardening</td>
 
-<h3>Contacts</h3>
+<h4>Contacts</h4>
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
