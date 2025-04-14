@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Kernel Parameter Management with sysctl</h1>
-  <h3>Ubuntu System Tuning for Performance and Security</h3>
+  
+  <h3>Software Application</h3>
 </div>
 
 <table border="1" cellpadding="5" cellspacing="0">
