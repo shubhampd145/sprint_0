@@ -1,28 +1,9 @@
 <div align="left">
   
-  <h3>Software Application</h3>
+  <h3>SOP: Managing Kernel Parameters with sysctl for Performance or Security Tuning</h3>
 </div>
 
-<table border="1" cellpadding="5" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Author</th>
-      <th>Created on</th>
-      <th>Version</th>
-      <th>Last updated by</th>
-      <th>Last edited on</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Shubham</td>
-      <td>14-04-25</td>
-      <td>version 1</td>
-      <td>14-4-25</td>
-      <td>14-4-25</td>
-    </tr>
-  </tbody>
-</table>
+
 
 <h2> Purpose</h2>
 <p>This Standard Operating Procedure (SOP) describes the proper procedures for viewing, applying, and persisting kernel parameter changes using <code>sysctl</code> on Ubuntu systems for performance optimization and security hardening.</p>
