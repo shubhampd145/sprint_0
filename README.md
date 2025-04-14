@@ -37,7 +37,7 @@
   <li>Understanding of kernel parameters and their implications</li>
 </ul>
 
-<h2>⚙ Procedures</h2>
+<h2> Procedures</h2>
 
 <h3>1. Viewing Current Kernel Parameters</h3>
 
