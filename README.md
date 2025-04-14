@@ -94,7 +94,7 @@ vm.swappiness=100</pre>
 
 <h2>Common Security-Hardening Parameters</h2>
 
-<h3>Network Security Performance Parameters</h3>
+<h3>Network Security & Performance Parameters</h3>
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
