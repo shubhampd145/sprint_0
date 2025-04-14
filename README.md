@@ -3,6 +3,33 @@
   <h3>SOP: Managing Kernel Parameters with sysctl for Performance or Security Tuning</h3>
 </div>
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Author</th>
+      <th>Created on</th>
+      <th>Version</th>
+      <th>Last updated by</th>
+      <th>Last edited on</th>
+      <th>Level</th>
+      <th>Reviewer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7">v2</td>
+    </tr>
+    <tr>
+      <td>Shubham Prasad</td>
+      <td>14-04-25</td>
+      <td>v1</td>
+      <td>Shubham Prasad</td>
+      <td>14-04-25</td>
+      <td>Internal</td>
+      <td>Komal Jaiswal</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h2> Purpose</h2>
