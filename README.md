@@ -206,7 +206,7 @@ vm.swappiness=100</pre>
   </thead>
   <tbody>
     <tr>
-      <td>Rohit Chopra</td>
+      <td>Shubham Prasad</td>
       <td><a href="mailto:shubham.prasad.snaatak@mygurukulam.co">shubham.prasad.snaatak@mygurukulam.co</a></td>
       
     </tr>
