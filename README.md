@@ -92,50 +92,10 @@ vm.swappiness=100</pre>
   </tr>
 </table>
 
-<h2>Performance and Security Tuning</h2>
+<h2>Common Security-Hardening Parameters</h2>
 
-<h3>Increase TCP Buffer Sizes</h3>
-<pre>
-net.core.rmem_max = 16777216
-net.core.wmem_max = 16777216
-</pre>
-
-<h3>TCP Window Scaling and Timestamps</h3>
-<pre>
-net.ipv4.tcp_timestamps = 1
-net.ipv4.tcp_window_scaling = 1
-</pre>
-
-<h3>Increase Connection Backlog Queue</h3>
-<pre>
-net.core.somaxconn = 4096
-net.ipv4.tcp_max_syn_backlog = 4096
-</pre>
-
-<h3>Enable TCP Fast Open</h3>
-<pre>
-net.ipv4.tcp_fastopen = 3
-</pre>
-
-<h3>Reduce TIME_WAIT Duration</h3>
-<pre>
-net.ipv4.tcp_fin_timeout = 15
-</pre>
-
-<h2>Memory and Swappiness</h2>
-<pre>
-# Reduce swapping tendency (0-100, lower = less swap)
-vm.swappiness = 10
-
-# Increase available file handles
-fs.file-max = 2097152
-
-# Cache pressure (higher = more likely to reclaim cache)
-vm.vfs_cache_pressure = 50
-</pre>
-
-<h3>Performance Tuning Use Cases</h3>
-<table border="1">
+<h3>Network Security Performance Parameters</h3>
+<table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
       <th>Parameter</th>
@@ -166,42 +126,8 @@ vm.vfs_cache_pressure = 50
   </tbody>
 </table>
 
-<h2>Common Security-Hardening Parameters</h2>
-
-<h3>Network Security</h3>
-<pre>
-# Disable IP forwarding (unless router/gateway)
-net.ipv4.ip_forward = 0
-
-# Disable ICMP redirects
-net.ipv4.conf.all.accept_redirects = 0
-net.ipv6.conf.all.accept_redirects = 0
-
-# Enable SYN flood protection
-net.ipv4.tcp_syncookies = 1
-
-# Disable source routing
-net.ipv4.conf.all.accept_source_route = 0
-net.ipv6.conf.all.accept_source_route = 0
-
-# Log suspicious packets
-net.ipv4.conf.all.log_martians = 1
-</pre>
-
-<h3>Kernel Protections</h3>
-<pre>
-# Restrict kernel pointer access
-kernel.kptr_restrict = 2
-
-# Disable unprivileged user namespaces (if not needed)
-kernel.unprivileged_userns_clone = 0
-
-# Enable strict ASLR (Address Space Layout Randomization)
-kernel.randomize_va_space = 2
-</pre>
-
-<h3>Security Use Case Summary</h3>
-<table border="1">
+<h3>Security Tuning Parameters</h3>
+<table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
       <th>Parameter</th>
@@ -215,5 +141,27 @@ kernel.randomize_va_space = 2
       <td>net.ipv4.ip_forward = 0</td>
       <td>Disable IP routing</td>
       <td>Web server or DB server</td>
-      <td>Prevents
-
+      <td>Prevents packet forwarding</td>
+    </tr>
+    <tr>
+      <td>accept_redirects = 0</td>
+      <td>Disable ICMP redirects</td>
+      <td>Secure servers</td>
+      <td>Prevent MitM attacks</td>
+    </tr>
+    <tr>
+      <td>tcp_syncookies = 1</td>
+      <td>Enable SYN flood protection</td>
+      <td>Public web/API server</td>
+      <td>Mitigates DoS</td>
+    </tr>
+    <tr>
+      <td>accept_source_route = 0</td>
+      <td>Block source-routed packets</td>
+      <td>Any cloud server</td>
+      <td>Prevent spoofing</td>
+    </tr>
+    <tr>
+      <td>log_martians = 1</td>
+      <td>Log suspicious packets</td>
+      <td>Security hardening</td>
