@@ -61,4 +61,23 @@ mvn archetype:generate   -DgroupId=com.opstree.microservice   -DartifactId=salar
 | `-Dpackage` | Java package name for generated classes (com.opstree.microservice.salary) |
 | `-DarchetypeArtifactId` | Template used to generate project (maven-archetype-quickstart gives a basic Java setup) |
 | `-DinteractiveMode=false` | Skips the interactive prompt and runs immediately |
+
+### 5. Result
+After running the command:
+
+- You'll get a folder named `salary`
+- Inside that folder, you'll have:
+  - A `pom.xml` with your details
+  - Source code structure:
+    ```
+    salary/
+    ├── pom.xml
+    └── src
+        ├── main
+        │   └── java
+        │       └── com/opstree/microservice/salary/App.java
+        └── test
+            └── java
+                └── com/opstree/microservice/salary/AppTest.java
+    ```
 </details>
