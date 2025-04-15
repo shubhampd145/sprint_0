@@ -40,7 +40,7 @@
 
 <h2> Prerequisites</h2>
 <ul>
-  <li><code>Administrative/sudo privileges</code></li>
+  <li><Administrative/sudo privileges</li>
   <li>Basic command line proficiency</li>
   <li>Understanding of kernel parameters and their implications</li>
 </ul>
