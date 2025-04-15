@@ -3,33 +3,31 @@
   <h3>Documentation Of Managing Kernel Parameters with sysctl for Performance or Security Tuning</h3>
 </div>
 
-<table border="1" cellpadding="5" cellspacing="0">
+<table>
   <thead>
     <tr>
       <th>Author</th>
       <th>Created on</th>
       <th>Version</th>
-      <th>Last updated by</th>
-      <th>Last edited on</th>
-      <th>Level</th>
-      <th>Reviewer</th>
+      <th>Internal-Reviewer</th>
+      <th>L0-Reviewer</th>
+      <th>L1-Reviewer</th>
+      <th>L2-Reviewer</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="7">v2</td>
-    </tr>
-    <tr>
-      <td>Shubham Prasad</td>
-      <td>14-04-25</td>
-      <td>v1</td>
-      <td>Shubham Prasad</td>
-      <td>14-04-25</td>
-      <td>Internal</td>
+      <td>Shubham</td>
+      <td>15-04-25</td>
+      <td>version 1</td>
       <td>Komal Jaiswal</td>
+      <td>Gaurav Singla</td>
+      <td>Rahul Gupta</td>
+      <td>Mahesh Kumar</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <h2>1. Purpose</h2>
