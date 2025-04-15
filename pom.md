@@ -77,5 +77,5 @@ After running the command:
 ### 7. References
 | Links | Descriptions |
 |-------|--------------|
-| [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04) | Intro & Installation of Gunicorn |
+| [DigitalOcean Tutorial](https://maven.apache.org/what-is-maven.html) | Intro & Installation of POM |
 </details>
