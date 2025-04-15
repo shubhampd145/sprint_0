@@ -163,9 +163,6 @@ vm.swappiness=100</pre>
       <th>Description</th>
       <th>Use Case</th>
       <th>Why Set It</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>net.ipv4.ip_forward = 0</td>
       <td>Disable IP routing</td>
@@ -194,8 +191,12 @@ vm.swappiness=100</pre>
       <td>log_martians = 1</td>
       <td>Log suspicious packets</td>
       <td>Security hardening</td>
-<h2>6. Contacts</h2>
-<table>
+        </tr>
+  </thead>
+  <tbody>
+      
+ <h2>6. Contacts</h2>
+ <table>
   <thead>
     <tr>
       <th>Name</th>
