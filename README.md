@@ -3,7 +3,7 @@
 
 
 <div align="left">
-  <h2>Documentation Of Managing Kernel Parameters with sysctl for Performance or Security Tuning</h2>
+  <h2>Kernel Parameters with sysctl for Performance or Security Tuning</h2>
 </div>
 
 | Author   | Created on | Version  | Internal-Reviewer | L0-Reviewer  | L1-Reviewer | L2-Reviewer  |
