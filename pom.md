@@ -53,4 +53,12 @@ This document provides a standardized procedure for installing  <code>pom.xml</c
 ```sh
 mvn archetype:generate   -DgroupId=com.opstree.microservice   -DartifactId=salary   -Dversion=0.1.0-RELEASE   -Dpackage=com.opstree.microservice.salary   -DarchetypeArtifactId=maven-archetype-quickstart   -DinteractiveMode=false
 ```
+| Flag | Meaning |
+|------|---------|
+| `-DgroupId` | Base package / organization name (com.opstree.microservice) |
+| `-DartifactId` | Project/module name (salary) |
+| `-Dversion` | Project version (0.1.0-RELEASE) |
+| `-Dpackage` | Java package name for generated classes (com.opstree.microservice.salary) |
+| `-DarchetypeArtifactId` | Template used to generate project (maven-archetype-quickstart gives a basic Java setup) |
+| `-DinteractiveMode=false` | Skips the interactive prompt and runs immediately |
 </details>
