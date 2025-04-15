@@ -3,16 +3,14 @@
 
 ## Comprehensive Step-by-Step Installation & Configuration Guide
 
-### Document Control
-| Document Title | SOP for pom.xml Setup |
-|---------------|----------------------|
-| Version       | 1.1                  |
-| Created On    | 16-04-25       |
-| Version       | v1          |
-| Internal-Reviewer   | Komal Jaiswal      |
-| L0-Reviewer     | Gaurav Singla                  |  
-| L1-Reviewer    |    Rahul Gupta                 |
-|L2-Reviewer      |        Mahesh Kumar           |
+**Document Title:** SOP for pom.xml Setup  
+**Version:** 1.1  
+**Created On:** 16-04-25  
+**Version:** v1  
+**Internal-Reviewer:** Komal Jaiswal  
+**L0-Reviewer:** Gaurav Singla  
+**L1-Reviewer:** Rahul Gupta  
+**L2-Reviewer:** Mahesh Kumar  
 
 ### 1. Purpose
 This document provides a standardized procedure for installing  <code>pom.xml</code> file in Maven-based Java projects.
