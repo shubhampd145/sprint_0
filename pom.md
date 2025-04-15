@@ -48,4 +48,9 @@ This document provides a standardized procedure for installing  <code>pom.xml</c
    ```sh
    mvn archetype:generate -DgroupId=com.yourcompany -DartifactId=your-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
    ```
+
+### 4. Examples
+```sh
+mvn archetype:generate   -DgroupId=com.opstree.microservice   -DartifactId=salary   -Dversion=0.1.0-RELEASE   -Dpackage=com.opstree.microservice.salary   -DarchetypeArtifactId=maven-archetype-quickstart   -DinteractiveMode=false
+```
 </details>
