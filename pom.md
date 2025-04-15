@@ -80,8 +80,7 @@ After running the command:
             └── java
                 └── com/opstree/microservice/salary/AppTest.java
     ```
-
-    ### 6. Contacts
+ ### 6. Contacts
 | Name | Email Address |
 |------|---------------|
 | Shubham Prasad | [shubham.prasad.snaatak@mygurukulam.co](mailto:shubham.prasad.snaatak@mygurukulam.co) |
