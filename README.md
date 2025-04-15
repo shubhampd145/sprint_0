@@ -1,5 +1,5 @@
 <details>
- <summary><h1>Standard Operating Procedure (SOP) For SYSCTL</h1></summary>summary
+ <summary><h1>Standard Operating Procedure (SOP) For SYSCTL</h1></summary>
 
 
 <div align="left">
