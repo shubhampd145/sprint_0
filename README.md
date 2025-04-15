@@ -194,6 +194,21 @@ vm.swappiness=100</pre>
       <td>log_martians = 1</td>
       <td>Log suspicious packets</td>
       <td>Security hardening</td>
+<h2>6. Contacts</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shubham Prasad</td>
+      <td><a href="mailto:shubham.prasad.snaatak@mygurukulam.co">shubham.prasad.snaatak@mygurukulam.co</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
