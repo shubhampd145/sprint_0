@@ -32,10 +32,10 @@
 </table>
 
 
-<h2> Purpose</h2>
-<p>This Standard Operating Procedure (SOP) describes the proper procedures for viewing, applying, and persisting kernel parameter changes using <code>sysctl</code> on Ubuntu systems for performance optimization and security hardening.</p>
+<h2>1. Purpose</h2>
+<p>This Standard Operating Procedure (SOP) describes the proper procedures for <code>viewing</code>, <code>applying</code>, and <code>persisting</code> kernel parameter changes using <code>sysctl</code> on Ubuntu systems for performance optimization and security hardening.</p>
 
-<h2> Scope</h2>
+<h2>2. Scope</h2>
 <p>Applies to all Ubuntu Linux systems where kernel parameter tuning is required.</p>
 
 <h2> Prerequisites</h2>
@@ -45,7 +45,7 @@
   <li>Understanding of kernel parameters and their implications</li>
 </ul>
 
-<h2> Procedures</h2>
+<h2>3. Procedures</h2>
 
 <h3>1. Viewing Current Kernel Parameters</h3>
 
@@ -102,7 +102,7 @@ vm.swappiness=100</pre>
   </li>
 </ol>
 
-<h2>Example Parameters</h2>
+<h2>4. Example Parameters</h2>
 <table>
   <tr>
     <th>Parameter</th>
@@ -121,9 +121,9 @@ vm.swappiness=100</pre>
   </tr>
 </table>
 
-<h2>Common Security-Hardening Parameters</h2>
+<h2>5. Common Security-Hardening Parameters</h2>
 
-<h3>Network Security Performance Parameters</h3>
+<h3>Performance Parameters</h3>
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
