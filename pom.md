@@ -80,4 +80,14 @@ After running the command:
             └── java
                 └── com/opstree/microservice/salary/AppTest.java
     ```
+
+    ### 6. Contacts
+| Name | Email Address |
+|------|---------------|
+| Shubham Prasad | [shubham.prasad.snaatak@mygurukulam.co](mailto:shubham.prasad.snaatak@mygurukulam.co) |
+
+### 7. References
+| Links | Descriptions |
+|-------|--------------|
+| [DigitalOcean Tutorial](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04) | Intro & Installation of Gunicorn |
 </details>
