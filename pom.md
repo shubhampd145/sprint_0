@@ -18,12 +18,7 @@
 This document provides a standardized procedure for installing  <code>pom.xml</code> file in Maven-based Java projects.
 
 ### 2. Scope
-- Applicable to all Java projects using Apache Maven.
-- Covers:
-  - Initial setup
-  - Dependency management
-  - Build configurations
-  - Best practices
+This SOP defines the process for generating and installing a Maven pom.xml to manage project dependencies and build metadata. It ensures consistent local artifact installation for reuse across multiple Java-based applications.
 
 ### 3. Prerequisites
 #### 3.1 Software Requirements
