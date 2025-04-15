@@ -97,9 +97,11 @@ sysctl <parameter.name>
 | accept_source_route = 0 | Block source-routed packets | Any cloud server | Prevent spoofing |
 | log_martians = 1 | Log suspicious packets | Security hardening | Improved monitoring |
 
-</details>
+
 
 ## 6. Contacts
 | Name | Email Address |
 |------|---------------|
 | Shubham Prasad | [shubham.prasad.snaatak@mygurukulam.co](mailto:shubham.prasad.snaatak@mygurukulam.co) |
+
+</details>
