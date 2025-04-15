@@ -96,6 +96,7 @@ sysctl <parameter.name>
 | tcp_syncookies = 1 | Enable SYN flood protection | Public web/API server | Mitigates DoS |
 | accept_source_route = 0 | Block source-routed packets | Any cloud server | Prevent spoofing |
 | log_martians = 1 | Log suspicious packets | Security hardening | Improved monitoring |
+
 </details>
 
 ## 6. Contacts
