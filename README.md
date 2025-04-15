@@ -1,6 +1,6 @@
 <div align="left">
   
-  <h3>SOP: Managing Kernel Parameters with sysctl for Performance or Security Tuning</h3>
+  <h3>Documentation Of Managing Kernel Parameters with sysctl for Performance or Security Tuning</h3>
 </div>
 
 <table border="1" cellpadding="5" cellspacing="0">
