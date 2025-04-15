@@ -9,13 +9,13 @@
 | Version       | 1.1                  |
 | Created On    | 16-04-25       |
 | Version       | v1          |
-| Internal-Reviewer   | [Komal Jaiswal]      |
+| Internal-Reviewer   | Komal Jaiswal      |
 | L0-Reviewer     | Gaurav Singla                  |  
 | L1-Reviewer    |    Rahul Gupta                 |
 |L2-Reviewer      |        Mahesh Kumar           |
 
 ### 1. Purpose
-This document provides a standardized procedure for setting up, configuring, and maintaining a pom.xml file in Maven-based Java projects.
+This document provides a standardized procedure for installing  <code>pom.xml</code> file in Maven-based Java projects.
 
 ### 2. Scope
 - Applicable to all Java projects using Apache Maven.
