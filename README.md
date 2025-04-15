@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Standard Operating Procedure (SOP) for SYSCTL</h1>
+<h1>Standard Operating Procedure (SOP) For SYSCTL</h1>
 </div>
 
 <div align="left">
