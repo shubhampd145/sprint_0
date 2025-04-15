@@ -27,23 +27,28 @@ This document provides a standardized procedure for installing  <code>pom.xml</c
 
 ### 3. Prerequisites
 #### 3.1 Software Requirements
-- Java JDK (1.8 or later)
-  ```sh
-  java -version
-  ```
+- Java JDK (8 or later)
 - Apache Maven (3.6.0+)
-  ```sh
-  mvn -v
-  ```
-- IDE (IntelliJ, Eclipse, or VS Code with Maven plugin)
+ 
 
-#### 3.2 Network Requirements
-- Internet access (for downloading dependencies).
-- Proxy settings (if behind corporate firewall).
-
-### 4. Step-by-Step Guide
+### 4. Installation Steps
 #### 4.1 Creating a New Maven Project
-##### Option 1: Using Command Line
+##### Step 1: Update System Packages
+1. Run:
+  ```sh
+  sudo apt update && sudo apt upgrade -y  # For Debian/Ubuntu
+  ```
+##### Step 2: Install Java 
+1. Run:
+  ```sh
+  sudo apt install openjdk-11-jdk
+  ```
+##### Step 3: Install Maven  
+1. Run:
+  ```sh
+  sudo apt install maven -y
+  ```
+##### Step 3: Create Pom.xml file   
 1. Run:
    ```sh
    mvn archetype:generate -DgroupId=com.yourcompany -DartifactId=your-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
