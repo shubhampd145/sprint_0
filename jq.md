@@ -1,5 +1,13 @@
 <h1>Documentation: Introduction</h1>
-
+<h2>What is jq?</h2>
+<p>
+jq is a stream-oriented JSON processor that takes JSON input, applies transformations (defined by a filter), and produces JSON (or other formats) as output.
+</p>
+<ul>
+  <li><b>Written in C</b>: Fast and efficient also has zeroruntime dependencies.</li>
+  <li><b>Available on most platforms</b>: Linux, macOS, and Windows (via WSL or native builds).</li>
+  <li><b>Open-source</b>: Licensed under the MIT license.</li>
+</ul>
 
 <h2>Why Use jq?</h2>
 <p>
