@@ -12,7 +12,7 @@
   <li><a href="#best-practices">Best Practices for Using SonarQube</a></li>
   <li><a href="#conclusion">Conclusion</a></li>
   <li><a href="#contacts">Contacts</a></li>
-  <li><a href="#references">References</a></li>
+  <li><a href="#References">References</a></li>
 </ol>
 
 <h2 id="what-is-sonarqube">1. What is SonarQube?</h2>
@@ -163,8 +163,7 @@
     </tr>
   </tbody>
 </table>
-
-<h3>References</h3>
+<h2 id="References">8.#Reference </h2>
 <table>
   <thead>
     <tr>
@@ -174,8 +173,8 @@
   </thead>
   <tbody>
     <tr>
-       <td><a href="https://www.baeldung.com/linux/jq-command-json" target="_blank">Baeldung jq Guide</a></td>
-      <td>Guide to Jq Commands</td>
+       <td><a href="https://docs.sonarsource.com/sonarqube-server/latest/">Sonarwue Documentation</a></td>
+      <td>Sonarwube Documentation</td>
     </tr>
   </tbody>
 </table>
