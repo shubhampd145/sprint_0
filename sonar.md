@@ -173,8 +173,8 @@
   </thead>
   <tbody>
     <tr>
-       <td><a href="https://docs.sonarsource.com/sonarqube-server/latest/">Sonarwue Documentation</a></td>
-      <td>Sonarwube Documentation</td>
+       <td><a href="https://docs.sonarsource.com/sonarqube-server/latest/">Sonarqube</a></td>
+      <td>Sonarqube Documentation</td>
     </tr>
   </tbody>
 </table>
