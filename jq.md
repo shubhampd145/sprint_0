@@ -1,5 +1,6 @@
 <h1>Documentation: Introduction</h1>
 
+
 <h2>Why Use jq?</h2>
 <p>
 JSON (JavaScript Object Notation) is a widely used data format for APIs, configuration files, and data storage. However, parsing and manipulating JSON from the command line or scripts can be cumbersome without the right tools.
@@ -12,16 +13,6 @@ JSON (JavaScript Object Notation) is a widely used data format for APIs, configu
   <li>Format and prettify JSON for better readability.</li>
   <li>Perform complex operations like sorting, mapping, and reducing JSON data.</li>
   <li>Integrate seamlessly with shell scripts, APIs, and other command-line tools (e.g., curl).</li>
-</ul>
-
-<h2>What is jq?</h2>
-<p>
-jq is a stream-oriented JSON processor that takes JSON input, applies transformations (defined by a filter), and produces JSON (or other formats) as output.
-</p>
-<ul>
-  <li><b>Written in C</b>: Fast and efficient.</li>
-  <li><b>Available on most platforms</b>: Linux, macOS, and Windows (via WSL or native builds).</li>
-  <li><b>Open-source</b>: Licensed under the MIT license.</li>
 </ul>
 
 <h2>Key Features of jq</h2>
