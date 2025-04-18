@@ -5,6 +5,7 @@
   <li><a href="#what-is-jq">What is jq</a></li>
   <li><a href="#why-use-jq">Why Use jq</a></li>
   <li><a href="#key-features-of-jq">Features of jq</a></li>
+  <li><a href="#Conclusion">Conclusion</a></li>
   <li><a href="#Contacts">Contacts</a></li>
   <li><a href="#References">References</a></li>
 </ul>
@@ -100,6 +101,11 @@ echo '{"a": 1}' | jq '.b // "default"'
 echo '10' | jq 'def double: . * 2; double'
 # Output: 20
 </code></pre>
+
+<h3> Conclusion</h3>
+<p>
+In this in-depth article, we covered some of the basic capabilities that <code>jq</code> provides for processing and manipulating JSON via the command line.
+</p>
 
 <h3> Contacts</h3>
 <table>
