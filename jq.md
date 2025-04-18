@@ -133,8 +133,8 @@ In this in-depth article, we covered some of the basic capabilities that <code>j
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://maven.apache.org/what-is-maven.html">DigitalOcean Tutorial</a></td>
-      <td>Intro & Installation of POM</td>
+       <td><a href="https://www.baeldung.com/linux/jq-command-json" target="_blank">Baeldung jq Guide</a></td>
+      <td>Guide to Jq Commands</td>
     </tr>
   </tbody>
 </table>
