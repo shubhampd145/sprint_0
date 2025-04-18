@@ -1,4 +1,12 @@
 <h1>Documentation: Introduction</h1>
+
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="#what-is-jq">What is jq?</a></li>
+  <li><a href="#why-use-jq">Why Use jq?</a></li>
+  <li><a href="#key-features-of-jq">Features of jq</a></li>
+</ul>
+
 <h2>What is jq?</h2>
 <p>
 jq is a stream-oriented JSON processor that takes JSON input, applies transformations (defined by a filter), and produces JSON (or other formats) as output.
