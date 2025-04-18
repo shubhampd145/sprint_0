@@ -148,7 +148,7 @@
 </ul>
 <p>While it requires <strong>proper setup and tuning</strong>, the long-term benefits outweigh the initial effort.</p>
 
-<h3> Contacts</h3>
+<h2 id="contacts">7. Contacts</h2>
 <table>
   <thead>
     <tr>
