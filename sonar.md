@@ -11,7 +11,7 @@
   <li><a href="#how-sonarqube-works">How SonarQube Works (Workflow)</a></li>
   <li><a href="#best-practices">Best Practices for Using SonarQube</a></li>
   <li><a href="#conclusion">Conclusion</a></li>
-  <li><a href="#contacts">Contact Information</a></li>
+  <li><a href="#contacts">Contacts</a></li>
   <li><a href="#references">References</a></li>
 </ol>
 
