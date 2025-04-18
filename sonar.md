@@ -4,8 +4,8 @@
 
 <h2>Table of Contents</h2>
 <ol>
-  <li><a href="#what-is-sonarqube">What is SonarQube?</a></li>
-  <li><a href="#why-use-sonarqube">Why Use SonarQube?</a></li>
+  <li><a href="#what-is-sonarqube">What is SonarQube</a></li>
+  <li><a href="#why-use-sonarqube">Why Use SonarQube</a></li>
   <li><a href="#key-advantages">Key Advantages</a></li>
   <li><a href="#potential-disadvantages">Potential Disadvantages</a></li>
   <li><a href="#how-sonarqube-works">How SonarQube Works (Workflow)</a></li>
