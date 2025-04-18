@@ -2,14 +2,14 @@
 
 <h2>Table of Contents</h2>
 <ul>
-  <li><a href="#what-is-jq">What is jq?</a></li>
-  <li><a href="#why-use-jq">Why Use jq?</a></li>
+  <li><a href="#what-is-jq">What is jq</a></li>
+  <li><a href="#why-use-jq">Why Use jq</a></li>
   <li><a href="#key-features-of-jq">Features of jq</a></li>
   <li><a href="#Contacts">Contacts</a></li>
-  <li><a href="#References">References?</a></li>
+  <li><a href="#References">References</a></li>
 </ul>
 
-<h2 id="what-is-jq">What is jq?</h2>
+<h2 id="what-is-jq">What is jq</h2>
 <p>
 jq is a stream-oriented JSON processor that takes JSON input, applies transformations (defined by a filter), and produces JSON (or other formats) as output.
 </p>
@@ -19,7 +19,7 @@ jq is a stream-oriented JSON processor that takes JSON input, applies transforma
   <li><b>Open-source</b>: Licensed under the MIT license.</li>
 </ul>
 
-<h2 id="why-use-jq">Why Use jq?</h2>
+<h2 id="why-use-jq">Why Use jq</h2>
 <p>
 JSON (JavaScript Object Notation) is a widely used data format for APIs, configuration files, and data storage. However, parsing and manipulating JSON from the command line or scripts can be cumbersome without the right tools.
 </p>
