@@ -1,4 +1,7 @@
 <div class="sonarqube-docs">
+<p align="center">
+  <img src="https://www.sonarsource.com/images/logos/sonarqube-logo.svg" alt="SonarQube Logo" width="300">
+</p>
 
 <h1 align="center">SonarQube: Comprehensive Documentation</h1>
 
