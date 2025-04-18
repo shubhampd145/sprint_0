@@ -163,8 +163,8 @@
     </tr>
   </tbody>
 </table>
-<h2 id="References">8.#Reference </h2>
-<table>
+<h2 id="References">8. References</h2>
+<table border="1">
   <thead>
     <tr>
       <th>Links</th>
@@ -173,10 +173,12 @@
   </thead>
   <tbody>
     <tr>
-       <td><a href="https://docs.sonarsource.com/sonarqube-server/latest/">Sonarqube</a></td>
-      <td>Sonarqube Documentation</td>
-       <td><a href="https://www.digitalocean.com/community/tutorials/how-to-ensure-code-quality-with-sonarqube-on-ubuntu-18-04">Sonarqube</a></td>
-      <td>Sonarqube Installation On Ubuntu</td>
+      <td><a href="https://docs.sonarsource.com/sonarqube-server/latest/" target="_blank">SonarQube</a></td>
+      <td>SonarQube Documentation</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.digitalocean.com/community/tutorials/how-to-ensure-code-quality-with-sonarqube-on-ubuntu-18-04" target="_blank">SonarQube</a></td>
+      <td>SonarQube Installation On Ubuntu</td>
     </tr>
   </tbody>
 </table>
