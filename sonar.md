@@ -148,144 +148,37 @@
 </ul>
 <p>While it requires <strong>proper setup and tuning</strong>, the long-term benefits outweigh the initial effort.</p>
 
-<h2 id="contact-info">8. Contact Information</h2>
-<ul>
-  <li><strong>Official Website</strong>: <a href="https://www.sonarqube.org" target="_blank">https://www.sonarqube.org</a></li>
-  <li><strong>Support</strong>: <a href="https://community.sonarsource.com" target="_blank">community.sonarsource.com</a></li>
-  <li><strong>Enterprise Plans</strong>: <a href="https://www.sonarsource.com" target="_blank">https://www.sonarsource.com</a></li>
-</ul>
+<h3> Contacts</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shubham Prasad</td>
+      <td><a href="mailto:shubham.prasad.snaatak@mygurukulam.co">shubham.prasad.snaatak@mygurukulam.co</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 id="references">9. References</h2>
-<ol>
-  <li><a href="https://docs.sonarqube.org" target="_blank">SonarQube Documentation</a></li>
-  <li><a href="https://owasp.org/www-project-top-ten/" target="_blank">OWASP Top 10 Security Risks</a></li>
-  <li><a href="https://docs.sonarqube.org/latest/analysis/jenkins/" target="_blank">Integrating SonarQube with Jenkins</a></li>
-</ol>
+<h3>References</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Links</th>
+      <th>Descriptions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+       <td><a href="https://www.baeldung.com/linux/jq-command-json" target="_blank">Baeldung jq Guide</a></td>
+      <td>Guide to Jq Commands</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>This documentation provides a <strong>complete guide</strong> to SonarQube, covering <strong>what it is, why it matters, pros & cons, workflow, best practices, and references</strong>. Let me know if you need any modifications! 🚀</p>
 
-</div>
 
-<style>
-.sonarqube-docs {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.6;
-  color: #24292e;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.sonarqube-docs h1, 
-.sonarqube-docs h2, 
-.sonarqube-docs h3 {
-  color: #0366d6;
-  margin-top: 24px;
-  margin-bottom: 16px;
-  font-weight: 600;
-}
-
-.sonarqube-docs h1 {
-  font-size: 2em;
-  border-bottom: 1px solid #eaecef;
-  padding-bottom: 0.3em;
-}
-
-.sonarqube-docs h2 {
-  font-size: 1.5em;
-  border-bottom: 1px solid #eaecef;
-  padding-bottom: 0.3em;
-}
-
-.sonarqube-docs h3 {
-  font-size: 1.25em;
-}
-
-.sonarqube-docs ul, 
-.sonarqube-docs ol {
-  padding-left: 2em;
-  margin-bottom: 16px;
-}
-
-.sonarqube-docs li {
-  margin-bottom: 8px;
-}
-
-.sonarqube-docs table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-bottom: 16px;
-  display: block;
-  overflow-x: auto;
-}
-
-.sonarqube-docs th, 
-.sonarqube-docs td {
-  padding: 12px;
-  border: 1px solid #dfe2e5;
-  text-align: left;
-}
-
-.sonarqube-docs th {
-  background-color: #f6f8fa;
-  font-weight: 600;
-}
-
-.sonarqube-docs tr:nth-child(even) {
-  background-color: #f6f8fa;
-}
-
-.sonarqube-docs pre {
-  background-color: #f6f8fa;
-  border-radius: 6px;
-  padding: 16px;
-  overflow: auto;
-  line-height: 1.45;
-  margin-bottom: 16px;
-}
-
-.sonarqube-docs code {
-  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-  font-size: 85%;
-  background-color: rgba(27,31,35,0.05);
-  border-radius: 3px;
-  padding: 0.2em 0.4em;
-}
-
-.sonarqube-docs pre code {
-  background-color: transparent;
-  padding: 0;
-}
-
-.sonarqube-docs a {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-.sonarqube-docs a:hover {
-  text-decoration: underline;
-}
-
-.checkmarks li::before {
-  content: "✅";
-  margin-right: 8px;
-}
-
-.best-practices li::before {
-  content: "✔";
-  margin-right: 8px;
-  color: #28a745;
-}
-
-.warnings li::before {
-  content: "❌";
-  margin-right: 8px;
-  color: #d73a49;
-}
-
-.diamonds li::before {
-  content: "🔹";
-  margin-right: 8px;
-  color: #0366d6;
-}
-</style>
