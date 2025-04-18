@@ -1,4 +1,4 @@
-<h1>jq Documentation</h1>
+<h1>JQ Intro Documentation</h1>
 
 <h2>Table of Contents</h2>
 <ul>
