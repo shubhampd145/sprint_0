@@ -5,6 +5,8 @@
   <li><a href="#what-is-jq">What is jq?</a></li>
   <li><a href="#why-use-jq">Why Use jq?</a></li>
   <li><a href="#key-features-of-jq">Features of jq</a></li>
+  <li><a href="#Contacts">Contacts</a></li>
+  <li><a href="#References">References?</a></li>
 </ul>
 
 <h2 id="what-is-jq">What is jq?</h2>
@@ -98,3 +100,36 @@ echo '{"a": 1}' | jq '.b // "default"'
 echo '10' | jq 'def double: . * 2; double'
 # Output: 20
 </code></pre>
+
+<h3> Contacts</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Shubham Prasad</td>
+      <td><a href="mailto:shubham.prasad.snaatak@mygurukulam.co">shubham.prasad.snaatak@mygurukulam.co</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>References</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Links</th>
+      <th>Descriptions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://maven.apache.org/what-is-maven.html">DigitalOcean Tutorial</a></td>
+      <td>Intro & Installation of POM</td>
+    </tr>
+  </tbody>
+</table>
+
